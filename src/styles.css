@@ -191,5 +191,3 @@ html {
   background: color-mix(in oklab, var(--primary) 40%, transparent);
   color: var(--foreground);
 }
-  }
-}
