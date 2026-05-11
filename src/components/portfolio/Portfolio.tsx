@@ -39,6 +39,8 @@ const categoryIcon: Record<string, typeof Code2> = {
   "Web Development": Globe,
 };
 
+const currentYear = 2026;
+
 export function Portfolio() {
   const [scrolled, setScrolled] = useState(false);
 
@@ -335,7 +337,8 @@ export function Portfolio() {
                 href="mailto:hello@example.com"
                 className="flex items-center gap-3 text-muted-foreground transition-colors hover:text-foreground"
               >
-                <Mail className="size-4 text-primary" /> hello@example.com
+                <Mail className="size-4 text-primary" />
+                <span>Email Wabi</span>
               </a>
               <a
                 href="https://github.com/"
@@ -386,7 +389,7 @@ export function Portfolio() {
       </Section>
 
       <footer className="border-t border-border/60 px-6 py-10 text-center text-sm text-muted-foreground">
-        © {new Date().getFullYear()} Wabi Tafese. Built with care.
+        © {currentYear} Wabi Tafese. Built with care.
       </footer>
     </div>
   );
