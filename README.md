@@ -7,8 +7,8 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-wabix2.github.io-00FF9C?style=for-the-badge&logo=vercel&logoColor=black)](https://wabix2.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-reach_out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](wabix2)
+[![Email](https://img.shields.io/badge/Email-reach_out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](wabitafese9@gmail.com)
 
 </div>
 
